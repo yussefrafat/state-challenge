@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+## REACT State Challenge: Shop Shop Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. [ Description. ](#desc)
+2. [ Web Address. ](#web-address)
+3. [ Usage tips. ](#usage)
+4. [ Features. ](#features)
+5. [ Credits. ](#credits)
+6. [ Licenses. ](#licenses)
+7. [ Install Command. ](#commandInstall)
+8. [ Test Command. ](#commandTest)
+9. [ Contributing. ](#contributing)
+10. [ Questions. ](#questions)
 
-## Available Scripts
+### For license description, click on the badge to get more information.
 
-In the project directory, you can run:
+[![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/mit)
 
-### `npm start`
+<a name="desc"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 1. Description
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This is a full stack e-commerce web application that was built using REACT. Application was migrated from REACT global state to Redux state.
 
-### `npm test`
+### Major tech snapshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![tech](read-me-images/tech-used.JPG?raw=true "code-used.JPG")
 
-### `npm run build`
+<a name="usage"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 2. Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This application is a REACT shop web site. It showcase how we can create a e-commerce web site using the MERN stack with Redux for storing global state.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you want to run locally perform the following:
 
-### `npm run eject`
+If you are still interested in running the application you would need to do the following:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- git clone
+  (run the following commands from the root directory)
+- npm install
+- npm start
+- use website http://localhost:3000/
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a name="credits"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 3. Credits
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+REACT for creating such an amazing way of rending our web pages!
 
-## Learn More
+<a name="licenses"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 4. Licenses
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+mit
 
-### Code Splitting
+<a name="commandInstall"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 5. Install Command
 
-### Analyzing the Bundle Size
+### npm install command will install javascript dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+(at root directory run):
+npm i
 
-### Making a Progressive Web App
+<a name="commandTest"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 6. Test Command
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+No test commands available, if you would like any, please let me know.
